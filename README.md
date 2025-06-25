@@ -44,4 +44,4 @@ The objective of this project is to perform Sentiment Analysis on social media p
 
 ## Conclusion
 
-This sentiment analysis project demonstrates how NLP techniques can be effectively utilized to extract insight from unstructured text data. By applying appropriate preprocessing, vectorization, and classification algorithms, the model can accurately categorize social media captions into sentiment classes. This pipelie can be extended to real-time analysis or integrated into dashboards for business intelligence purposes, making it a valuable asset across various industries.
+This sentiment analysis project demonstrates how NLP techniques can be effectively utilized to extract insight from unstructured text data. By applying appropriate preprocessing, vectorization, and classification algorithms, the model can accurately categorize social media captions into sentiment classes. This pipeline can be extended to real-time analysis or integrated into dashboards for business intelligence purposes, making it a valuable asset across various industries.
