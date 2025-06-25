@@ -10,7 +10,7 @@
 
 ## Task Description
 
-The objective of this project is to perform Sentiment Analysis on social media posts to determine the overall sentiment conveyed in user-generated content. This includes preprocessing the text data, extracting meaningful features, applying Natural Language Processing (NLP) techniques, and building a machine learning model to classify sentiments (e.g., Positive, Negative, Neutral). The goal is to gain insights ito public opinion or emotional tone expressed in social media captions.
+The objective of this project is to perform Sentiment Analysis on social media posts to determine the overall sentiment conveyed in user-generated content. This includes preprocessing the text data, extracting meaningful features, applying Natural Language Processing (NLP) techniques, and building a machine learning model to classify sentiments (e.g., Positive, Negative, Neutral). The goal is to gain insights into public opinion or emotional tone expressed in social media captions.
 
 ## Tools and Technologies Used
 
